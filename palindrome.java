@@ -15,7 +15,7 @@ public class palindrome{
         // System.out.println("palindrome number");
         // else
         // System.out.println(" not palindrome number");
-
+        System.out.println("This program checks for palindrome");
         String s = "malayalam";
         char[] c = s.toCharArray();
 
